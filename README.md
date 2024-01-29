@@ -1,5 +1,3 @@
-# Haar-cascade
-
 # Iris Flower Recognition using Haar Cascade Algorithm
 
 ## Overview
